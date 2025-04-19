@@ -1,3 +1,5 @@
+"use strict";
+
 import { queryRecordsTool } from "../tools/query-records";
 import { insertRecordTool } from "../tools/insert-record";
 import { updateRecordTool } from "../tools/update-record";

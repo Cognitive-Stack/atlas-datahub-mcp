@@ -1,3 +1,5 @@
+"use strict";
+
 import { z } from "zod";
 import { StorageService } from "../services/storage";
 import { ToolConfig } from "../types/tools";

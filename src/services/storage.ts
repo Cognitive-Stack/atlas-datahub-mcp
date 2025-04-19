@@ -1,3 +1,5 @@
+"use strict";
+
 import { CosmosClient, Container } from "@azure/cosmos";
 import { getConfig } from "../config/env";
 import { Record, QueryOptions, UpdateOptions } from "../types/tools";
